@@ -1,0 +1,15 @@
+Hello Mentor,
+
+1. Difference between HTTP1.1 and HTTP2:
+
+I found major breakthrough in developing HTTP2 was performance optimization and also following differences.
+a) The HTTP2 work faster when compared to HTTP1.1 where the data transfer speed has been increased tremendously.
+b) The HTTP2 uses the method of multiplexing where the user can retrieve more information from the server rather HTTP1.1 will retreive one information at a time.
+b) The HTTP2 has the faster parsing period and it is having network delays.
+
+2.Objects in Javascripts:
+
+An object is a reference data type. Where it doesnot store any values, They have a array which has stored the values. In other words it is said as unordered collection of related data of primitive data types.
+
+
+
