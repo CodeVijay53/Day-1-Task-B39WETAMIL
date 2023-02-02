@@ -9,7 +9,7 @@ b) The HTTP2 has the faster parsing period and it is having network delays.
 
 2.Objects in Javascripts:
 
-An object is a reference data type. Where it doesnot store any values, They have a array which has stored the values. In other words it is said as unordered collection of related data of primitive data types.
+An object is a reference data type. Where it doesnot store any values, They have a array which has stored the values. In other words it is said as unordered collection of related data of primitive data types. Please have a review
 
 
 
