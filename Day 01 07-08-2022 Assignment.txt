@@ -4,7 +4,7 @@ Hello Mentor,
 
 I found major breakthrough in developing HTTP2 was performance optimization and also following differences.
 a) The HTTP2 work faster when compared to HTTP1.1 where the data transfer speed has been increased tremendously.
-b) The HTTP2 uses the method of multiplexing where the user can retrieve more information from the server rather HTTP1.1 will retreive one information at a time.
+b) The HTTP2 uses the method of multiplexing where the user can retrieve more information from the server rather HTTP1.1 will retreive one information at a time it is time consuming.
 b) The HTTP2 has the faster parsing period and it is having network delays.
 
 2.Objects in Javascripts:
